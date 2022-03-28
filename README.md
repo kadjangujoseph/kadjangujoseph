@@ -45,6 +45,11 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
