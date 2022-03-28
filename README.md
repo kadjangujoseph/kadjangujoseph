@@ -9,10 +9,8 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on **FREELANCER**
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- :computer: Ask me about **REACT JS | JAVASCRIPT | FIGMA**
 - 📫 How to reach me: josephkadjsky@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
 - ⚡ Fun fact: I play games and take photographs very often.
 
 ### Top Technologies
@@ -42,13 +40,7 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
   More stuff about me
 </summary>
 
-<br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
@@ -60,10 +52,3 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephkadj&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
-****
