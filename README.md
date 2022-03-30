@@ -9,7 +9,7 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently working on **FREELANCER**
-- :computer: Ask me about **REACT JS | JAVASCRIPT | FIGMA**
+- :computer: Ask me about **REACT JS | JAVASCRIPT | **FIGMA****
 - 📫 How to reach me: josephkadjsky@gmail.com.
 - ⚡ Fun fact: I play games and take photographs very often.
 
