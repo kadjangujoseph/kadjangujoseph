@@ -47,11 +47,12 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   22 hrs 27 mins  ███████████████████▒░░░░░   76.96 %
-CSS          4 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-XML          1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
-JSON         47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JavaScript   22 hrs 58 mins  ████████████████████▓░░░░   83.00 %
+CSS          3 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+JSON         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Bash         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
