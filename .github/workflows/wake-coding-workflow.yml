@@ -3,12 +3,13 @@ name: Waka Readme
 on:
   workflow_dispatch:
     input:
-        name:
-          description: "enter your name"
-          default: "Joseph Kadjangu"
+      name:
+        description: "enter your name"
+        default: "Joseph Kadjangu"
+
   # schedule:
-  #   Runs at every Friday 12AM UTC
-  #   - cron: "0 0 * * 5 *"
+  #   Runs at every Sunday 12AM UTC
+  #   - cron: "0 0 * * 0 *"
 
 jobs:
   update-readme:
@@ -18,5 +19,6 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY  }}
-          COMMIT_MESSAGE: Weekly sats
+          COMMIT_MESSAGE: Weekly stats
+          SHOW_TIME: true
           SHOW_MASKED_TIME: true
