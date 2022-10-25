@@ -2,9 +2,13 @@ name: Waka Readme
 
 on:
   workflow_dispatch:
-  schedule:
-    Runs at every Friday 12AM UTC
-    - cron: "0 0 * * 5 *"
+    input:
+        name:
+          description: "enter your name"
+          default: "Joseph Kadjangu"
+  # schedule:
+  #   Runs at every Friday 12AM UTC
+  #   - cron: "0 0 * * 5 *"
 
 jobs:
   update-readme:
