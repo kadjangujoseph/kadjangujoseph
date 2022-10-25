@@ -32,6 +32,7 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/> </a>  
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="25" height="25"/> </a> 
+<a href="https://hub.docker.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/34159521/197772224-6d98ad81-4d39-4496-8598-629d1f2edee9.svg" alt="docker" width="35" height="35"/> </a> 
 
 
 #### Profile Visits 
@@ -54,4 +55,4 @@ Other        1 hr 19 mins    █▓░░░░░░░░░░░░░░░
 
 ![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephkadj&show_icons=true&&bg_color=60,01384e60,00000000&title_color=BDF7FF&icon_color=BDF7FF70&border_radius=10&hide=contribs,prs&count_private=true)
 
-<!-- </details> -->
+
