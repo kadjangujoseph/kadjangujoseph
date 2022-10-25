@@ -35,26 +35,20 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=josephkadj.josephkadj)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-
 
 #### Coding Stats
 
-<!--START_SECTION:waka-->
+<!-- START_SECTION:waka -->
 
-```text
+```
 JavaScript   0 secs          █████████████████████▒░░░   84.96 %
 YAML         0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
 ```
-
-<!--END_SECTION:waka-->
+<!-- END_SECTION:waka -->
 
 #### Github Stats
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephkadj&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
-</details>
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephkadj&show_icons=true&&bg_color=60,01384e60,00000000&title_color=BDF7FF&icon_color=BDF7FF70&border_radius=10&hide=contribs,prs&count_private=true)
+
+<!-- </details> -->
