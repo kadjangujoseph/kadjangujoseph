@@ -45,12 +45,9 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 24 mins
+Total Time: 0 secs
 
-HTML         1 hr 43 mins    ████████░░░░░░░░░░░░░░░░░   31.84 %
-Docker       1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
-YAML         1 hr 1 min      ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
-Other        31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
