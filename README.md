@@ -35,27 +35,3 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 <a href="https://hub.docker.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/34159521/197772224-6d98ad81-4d39-4496-8598-629d1f2edee9.svg" alt="docker" width="35" height="35"/> </a> 
 
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=josephkadj.josephkadj)
-
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 1 hr 49 mins
-
-JavaScript   1 hr 49 mins    █████████████████████████   99.63 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-```
-
-<!--END_SECTION:waka-->
-
-#### Github Stats
-
-
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josephkadj&show_icons=true&&bg_color=60,01384e60,00000000&title_color=BDF7FF&icon_color=BDF7FF70&border_radius=10&hide=contribs,prs&count_private=true)
-
-
