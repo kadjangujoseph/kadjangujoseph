@@ -1,3 +1,7 @@
+
+![github banner_Github_Github](https://github.com/kadjangujoseph/kadjangujoseph/assets/34159521/ad840244-99f6-4235-8a09-fb2accbef5ab)
+
+
 ## Hi I'm Joseph <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outstanding projects.
@@ -10,8 +14,8 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 
 - 🔭 I’m currently working on **FREELANCER**
 - :computer: Ask me about **REACT JS | JAVASCRIPT | FIGMA**
-- 📫 How to reach me: josephkadjsky@gmail.com.
-- ⚡ Fun fact: I play games and take photographs very often.
+- How to reach me: 📧 josephkadjsky@gmail.com, 🌐 https://kadjangujoseph.dev.
+- ⚡ Fun fact: I am a passionate of UI/UX designing.
 
 ### Top Technologies
 
