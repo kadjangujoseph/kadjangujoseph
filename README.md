@@ -8,7 +8,7 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Josephkadjsky-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Josephkadjsky)](https://twitter.com/josephkadjsky) [![Linkedin Badge](https://img.shields.io/badge/-JosephKadjangu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadjangu-joseph-7a1239155/) [![Mail Badge](https://img.shields.io/badge/-@josephkadjsky-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/josephkadjsky) [![Mail Badge](https://img.shields.io/badge/-Josephkadj-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:josephkadjsky@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Josephkadjsky-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Josephkadjsky)](https://twitter.com/josephkadjsky) [![Linkedin Badge](https://img.shields.io/badge/-JosephKadjangu-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadjangujoseph) [![Mail Badge](https://img.shields.io/badge/-@josephkadjsky-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/josephkadjsky) [![Mail Badge](https://img.shields.io/badge/-Josephkadj-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:josephkadjsky@gmail.com)
 
 <!-- TODO: Add last video link -->
 
