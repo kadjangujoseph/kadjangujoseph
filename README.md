@@ -14,7 +14,7 @@ I'm Joseph Kadjangu a Frontend Web Developer. I Spend most of time coding outsta
 
 - 🔭 I’m currently working on **FREELANCER**
 - :computer: Ask me about **REACT JS | JAVASCRIPT | FIGMA**
-- How to reach me: 📧 josephkadjsky@gmail.com, 🌐 https://kadjangujoseph.dev.
+- How to reach me: 📧 contact@kadjangujoseph.dev, 🌐 https://kadjangujoseph.dev.
 - ⚡ Fun fact: I am a passionate of UI/UX designing.
 
 ### Top Technologies
